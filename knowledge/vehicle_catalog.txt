@@ -1,0 +1,97 @@
+AUTOMOTIVE PRODUCT CATALOG
+Version: 1.0
+
+TATA NEXON
+
+Body Type:
+SUV
+
+Transmission:
+Automatic
+
+Indicative Price:
+₹14.5 lakh
+
+Ranchi Inventory:
+4 units
+
+Key Features:
+- Compact SUV
+- Automatic transmission
+- Suitable for urban driving
+- 5-seat configuration
+
+Target Customer:
+Customers seeking a compact SUV within a moderate budget.
+
+
+HYUNDAI VENUE
+
+Body Type:
+SUV
+
+Transmission:
+Automatic
+
+Indicative Price:
+₹15.8 lakh
+
+Ranchi Inventory:
+2 units
+
+Key Features:
+- Compact SUV
+- Automatic transmission
+- Urban-focused vehicle
+- 5-seat configuration
+
+Target Customer:
+Urban customers looking for a compact automatic SUV.
+
+
+HYUNDAI CRETA
+
+Body Type:
+SUV
+
+Transmission:
+Automatic
+
+Indicative Price:
+₹18.5 lakh
+
+Ranchi Inventory:
+3 units
+
+Key Features:
+- Mid-size SUV
+- Automatic transmission
+- Spacious cabin
+- 5-seat configuration
+
+Target Customer:
+Customers seeking a larger SUV with additional space.
+
+
+KIA SELTOS
+
+Body Type:
+SUV
+
+Transmission:
+Automatic
+
+Indicative Price:
+₹19.2 lakh
+
+Ranchi Inventory:
+2 units
+
+Key Features:
+- Mid-size SUV
+- Automatic transmission
+- Feature-oriented product
+- 5-seat configuration
+
+Target Customer:
+Customers looking for a feature-rich mid-size SUV.
